@@ -38,9 +38,7 @@ Clientes
      
        “String”: “João Silva”,
        
-       “String”: “Rua Senai”,
-       
-       “Integer”: “99999-9999”
+       “Double”: “35.00”
        
      }
 
