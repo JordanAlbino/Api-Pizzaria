@@ -28,16 +28,16 @@ Clientes
 
 1.	Criar Clientes
    
-•	Verbo HTTP: POST
+   •	Verbo HTTP: POST
 
-•	EndPoint: /Cliente
+   •	EndPoint: /Cliente
 
-•	Corpo da Requisição:
-  {
-    “String”: “João Silva”,
-    “String”: “Rua Senai”,
-    “Integer”: “99999-9999”
-  }
+   •	Corpo da Requisição:
+     {
+       “String”: “João Silva”,
+       “String”: “Rua Senai”,
+       “Integer”: “99999-9999”
+     }
 
 3.	Listar Clientes
 •	Verbo HTTP: GET
