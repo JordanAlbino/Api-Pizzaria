@@ -44,7 +44,7 @@ public class Cliente {
         return endereco;
     }
 
-    public void setCpf(String endereco) {
+    public void setEndereco(String endereco) {
         this.endereco = endereco;
     }
 
