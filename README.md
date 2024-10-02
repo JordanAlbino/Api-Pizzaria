@@ -25,9 +25,13 @@ Pré-requisitos:
 EndPoints da API
 
 Clientes
+
 1.	Criar Clientes
+   
 •	Verbo HTTP: POST
+
 •	EndPoint: /Cliente
+
 •	Corpo da Requisição:
   {
     “String”: “João Silva”,
@@ -35,7 +39,7 @@ Clientes
     “Integer”: “99999-9999”
   }
 
-2.	Listar Clientes
+3.	Listar Clientes
 •	Verbo HTTP: GET
 •	EndPoint: /Clientes
 •	Resposta de Sucesso:
