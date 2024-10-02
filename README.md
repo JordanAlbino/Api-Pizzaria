@@ -13,12 +13,14 @@ A entidade Cliente representa os dados de um cliente da pizzaria e contém as se
 INSTALAÇÃO
 
 Pré-requisitos:
+
 •	Java 11 ou superior;
 •	Maven ou Gradle para gerenciamento de dependências;
 •	Banco de dados H2(usado para testes) ou outro banco de dados da sua escolha;
 •	Spring Boot para framework de aplicação.
 
 EndPoints da API
+
 Clientes
 1.	Criar Clientes
 •	Verbo HTTP: POST
