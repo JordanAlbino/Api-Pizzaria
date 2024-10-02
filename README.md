@@ -33,6 +33,7 @@ Clientes
    •	EndPoint: /Cliente
 
    •	Corpo da Requisição:
+   
      {
      
        “String”: “João Silva”,
@@ -43,19 +44,25 @@ Clientes
        
      }
 
-3.	Listar Clientes
-•	Verbo HTTP: GET
-•	EndPoint: /Clientes
-•	Resposta de Sucesso:
-[
-  {
-    “id” : 1,
-  	“nome”: “João Silva”,
-  	“endereço”: “Rua Senai”,
-  	“numero”: “99999-9999”
-  }
+2.	Listar Clientes
+   
+      •	Verbo HTTP: GET
+      •	EndPoint: /Clientes
+      •	Resposta de Sucesso:
+   [
+  	
+     {
+       “id” : 1,
+  	
+  	   “nome”: “João Silva”,
+  	
+  	   “endereço”: “Rua Senai”,
+  	
+  	   “numero”: “99999-9999”
+  	
+     }
 
-]	
+   ]	
 3.	Buscar por Id:
 •	Verbo HTTP: GET
 •	EndPoint: /Clientes/{id}
