@@ -11,6 +11,7 @@ A API de Pizzaria permite a gestão de clientes e pizzas. Ela fornece endpoints 
 A entidade Cliente representa os dados de um cliente da pizzaria e contém as seguintes informações: nome(String), endereço(String) e número(Integer). A entidade Pizza representa os dados de uma pizza do cardápio e contém as seguintes informações: nome(String) e preço(Double). 
 
 INSTALAÇÃO
+
 Pré-requisitos:
 •	Java 11 ou superior;
 •	Maven ou Gradle para gerenciamento de dependências;
