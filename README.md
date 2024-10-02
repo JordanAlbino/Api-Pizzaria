@@ -42,7 +42,7 @@ Pizza
        
      }
 
-2.	Listar Clientes
+2.	Listar Pizza
    
       •	Verbo HTTP: GET
       •	EndPoint: /Clientes
@@ -54,11 +54,9 @@ Pizza
 
   	   “id” : 1,
   	
-  	   “nome”: “João Silva”,
+  	   “nome”: “Quatro queijo”,
   	
-  	   “endereço”: “Rua Senai”,
-  	
-  	   “numero”: “99999-9999”
+  	   “Double”: “35.00”,
   	
      }
    ]
