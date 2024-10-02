@@ -34,11 +34,13 @@ Clientes
 
    •	Corpo da Requisição:
      {
+     
        “String”: “João Silva”,
        
        “String”: “Rua Senai”,
        
        “Integer”: “99999-9999”
+       
      }
 
 3.	Listar Clientes
