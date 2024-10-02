@@ -49,9 +49,9 @@ Clientes
       •	Verbo HTTP: GET
       •	EndPoint: /Clientes
       •	Resposta de Sucesso:
-  	
+
+   
    [
-  	
      {
 
   	   “id” : 1,
@@ -63,8 +63,8 @@ Clientes
   	   “numero”: “99999-9999”
   	
      }
-
-   ]	
+   ]
+   
 3.	Buscar por Id:
 •	Verbo HTTP: GET
 •	EndPoint: /Clientes/{id}
