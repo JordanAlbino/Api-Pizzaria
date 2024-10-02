@@ -49,6 +49,7 @@ Clientes
       •	Verbo HTTP: GET
       •	EndPoint: /Clientes
       •	Resposta de Sucesso:
+  	
    [
   	
      {
