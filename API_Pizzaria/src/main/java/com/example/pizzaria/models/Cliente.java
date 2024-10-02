@@ -11,16 +11,16 @@ public class Cliente {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private String nome;
-    private String cpf;
-    private String numero;
+    private String endereco;
+    private Integer numero;
 
     public Cliente(){
     }
 
-    public Cliente(Long id, String nome, String cpf, String numero) {
+    public Cliente(Long id, String nome, String endereco, Integer numero) {
         this.id = id;
         this.nome = nome;
-        this.cpf = cpf;
+        this.endereco = endereco;
         this.numero = numero;
     }
 
@@ -40,19 +40,19 @@ public class Cliente {
         this.nome = nome;
     }
 
-    public String getCpf() {
-        return cpf;
+    public String getEndereco() {
+        return endereco;
     }
 
-    public void setCpf(String cpf) {
-        this.cpf = cpf;
+    public void setCpf(String endereco) {
+        this.endereco = endereco;
     }
 
-    public String getNumero() {
+    public Integer getNumero() {
         return numero;
     }
 
-    public void setNumero(String numero) {
+    public void setNumero(Integer numero) {
         this.numero = numero;
     }
 
