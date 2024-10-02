@@ -24,19 +24,19 @@ Pré-requisitos:
 
 EndPoints da API
 
-Clientes
+Pizza
 
-1.	Criar Clientes
+1.	Criar Pizza
    
    •	Verbo HTTP: POST
 
-   •	EndPoint: /Cliente
+   •	EndPoint: /Pizzas
 
    •	Corpo da Requisição:
    
      {
      
-       “String”: “João Silva”,
+       “String”: “Quatro queijo”,
        
        “Double”: “35.00”
        
