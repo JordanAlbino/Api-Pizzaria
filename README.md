@@ -6,7 +6,7 @@ Davi dos Anjos – Responsável pela entidade Cliente;
 Jordan de Lima – Documentação e correção de erros;
 Stanley Kennedy – Responsável pela entidade Pizza.
 
-DESCRIÇÃO
+
 A API de Pizzaria permite a gestão de clientes e pizzas. Ela fornece endpoints para criar, atualizar, deletar e consultar informações de clientes e pizzas. A API é simples e eficiente, facilitando o gerenciamento básico de um sistemas de pedidos de pizzas.
 A entidade Cliente representa os dados de um cliente da pizzaria. A entidade contém as seguintes informações: nome(String), endereço(String) e número(Integer). A entidade Pizza representa os dados de uma pizza do cardápio. A entidade contém as seguintes informações: nome(String) e preço(Double). 
 
