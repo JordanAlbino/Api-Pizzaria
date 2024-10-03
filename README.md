@@ -27,11 +27,11 @@ EndPoints da API
 
 1.	Criar Pizza
    
-   •	Verbo HTTP: POST
+      •	Verbo HTTP: POST
 
-   •	EndPoint: /Pizzas
+      •	EndPoint: /Pizzas
 
-   •	Corpo da Requisição:
+      •	Corpo da Requisição:
    
      {
      
