@@ -47,8 +47,10 @@ EndPoints da API
       •	EndPoint: /Clientes
       •	Resposta de Sucesso:
 
+
    
    [
+   
      {
 
   	   “id” : 1,
@@ -58,6 +60,7 @@ EndPoints da API
   	   “Double”: “35.00”,
   	
      }
+     
    ]
    
 3.	Buscar por Id:
