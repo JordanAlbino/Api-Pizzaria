@@ -1,6 +1,7 @@
 # Api-Pizzaria
 
-INTEGRANTES:
+<h1>INTEGRANTES:</h1>
+
 Arthur Estevam – Responsável pela entidade Pizza;
 Davi dos Anjos – Responsável pela entidade Cliente;
 Jordan de Lima – Documentação e correção de erros;
