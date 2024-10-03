@@ -13,7 +13,6 @@ A entidade Cliente representa os dados de um cliente da pizzaria e contém as se
 INSTALAÇÃO
 
 Pré-requisitos:
-
 •	Java 11 ou superior;
 
 •	Maven ou Gradle para gerenciamento de dependências;
@@ -50,7 +49,6 @@ EndPoints da API
 
    
    [
-     
      {
 
   	   “id” : 1,
@@ -60,7 +58,6 @@ EndPoints da API
   	   “Double”: “35.00”,
   	
      }
-     
    ]
    
 3.	Buscar por Id:
