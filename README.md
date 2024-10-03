@@ -67,13 +67,13 @@ EndPoints da API
    
 3.	Buscar por Id:
    
-   •	Verbo HTTP: GET
+      •	Verbo HTTP: GET
    
-   •	EndPoint: /Clientes/{id}
+      •	EndPoint: /Clientes/{id}
 
 5.	Deletar Cliente:
    
-   •	Verbo HTTP: DELETE
+      •	Verbo HTTP: DELETE
    
-   •	EndPoint: /Cliente/{id}
+      •	EndPoint: /Cliente/{id}
 
