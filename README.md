@@ -44,7 +44,9 @@ EndPoints da API
 2.	Listar Pizza
    
       •	Verbo HTTP: GET
+  	
       •	EndPoint: /Clientes
+  	
       •	Resposta de Sucesso:
 
 
